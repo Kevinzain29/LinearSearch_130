@@ -30,6 +30,21 @@ void input()
     }
 }
 
+void LinearSearch()
+{
+    char ch;
+    int ctr; // Number of comparisons
+
+    do
+    {
+        // accept the number to be searched
+        cout << "\nEnter the elements you want to search: "; //langkah no 1 algoritma 
+        int item;
+        cin >> item;
+
+
+    }
+}
 
 int main()
 {
